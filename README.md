@@ -2,7 +2,7 @@
 
 Mini project (Introduction to Machine Learning). Comparison of **K-Nearest Neighbours (KNN)** and a **Support Vector Machine (SVM)** for recognising handwritten digits.
 
-## Team
+## Team 
 
 1. Aum Trivedi         2000017437
 2. Parthsinh Chavda    2000017025
